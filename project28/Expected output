@@ -1,0 +1,9 @@
+Time=20 | Helmet=0 | Alcohol=0 | Accident=0 | Engine=0 | Alarm=0
+
+Time=30 | Helmet=1 | Alcohol=0 | Accident=0 | Engine=1 | Alarm=0
+
+Time=40 | Helmet=1 | Alcohol=1 | Accident=0 | Engine=0 | Alarm=1
+
+Time=50 | Helmet=1 | Alcohol=0 | Accident=1 | Engine=1 | Alarm=1
+
+Time=60 | Helmet=1 | Alcohol=0 | Accident=0 | Engine=1 | Alarm=0
